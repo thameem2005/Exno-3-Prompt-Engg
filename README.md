@@ -5,7 +5,7 @@ ChatGPT, Claude, Bard, Cohere Command, and Meta
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
  
-###Aim:
+### Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
 
 ### Algorithm:
@@ -30,9 +30,9 @@ A comparison table outlining the performance of each platform (ChatGPT, Claude, 
 A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
 
 
-### Algorithm: Design and Develop a Test scenario and execute the prompts under Diverse AI Platforms.
 
-###Program: Write Prompts in different tools , Compare and Analyse the output
+
+# Result : The Prompt for the above problem statement executed successfully.
 
 
 
